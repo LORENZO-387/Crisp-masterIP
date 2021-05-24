@@ -8,16 +8,16 @@ import sys
 d3=os.system("curl http://ipinfo.io/ip")
 os.system("clear && clear && clear")
 logo = '''\033[0m 
-   _|_|_|            _|                      
- _|        _|  _|_|      _|_|_|      _|_|_|  
- _|        _|_|      _|  _|    _|  _|_|      
- _|        _|        _|  _|    _|      _|_|  
-   _|_|_|  _|        _|  _|_|_|    _|_|_|    
-                         _|                  
-                         _| \033[0m  \033[91m    \033[1m 
-             }--{+} Coded By LORENZO387 {+}--{
-}----{+} https://github.com/LORENZO-387?tab=repositories {+}----{
-             }--{+}     GOOD LUCKKKK    {+}--{                               
+                  _|_|_|            _|                      
+                _|        _|  _|_|      _|_|_|      _|_|_|  
+                _|        _|_|      _|  _|    _|  _|_|      
+                _|        _|        _|  _|    _|      _|_|  
+                  _|_|_|  _|        _|  _|_|_|    _|_|_|    
+                                        _|                  
+                                        _| \033[0m  \033[91m    \033[1m 
+                         }--{+} Coded By LORENZO387 {+}--{
+            }----{+} https://github.com/LORENZO-387?tab=repositories {+}----{
+                         }--{+}     GOOD LUCKKKK    {+}--{                               
      '''
 menu = '''\033[0m
     {1}--Whois lookup
